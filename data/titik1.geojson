@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Kota Yogyakarta" },
+      "geometry": { "type": "Point", "coordinates": [110.3695, -7.8014] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sleman" },
+      "geometry": { "type": "Point", "coordinates": [110.3354, -7.7188] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bantul" },
+      "geometry": { "type": "Point", "coordinates": [110.3317, -7.8772] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kulon Progo" },
+      "geometry": { "type": "Point", "coordinates": [110.1674, -7.8406] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gunung Kidul" },
+      "geometry": { "type": "Point", "coordinates": [110.6162, -7.9673] }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "RM Rica Rica Bhetenk'z Pundong" },
+      "geometry": { "type": "Point", "coordinates": [110.34178270615465, -7.955021350451982] }
+    }
+  ]
+}
